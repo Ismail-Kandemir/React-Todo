@@ -1,21 +1,27 @@
 # 📝 React Todo App
 
-Bu proje React kullanılarak geliştirilmiş basit ve modern bir Todo (yapılacaklar listesi) uygulamasıdır.
+Bu proje React kullanılarak geliştirilmiş basit ve modern bir Todo uygulamasıdır.
+
+## 🌍 Live Demo
+
+[Projeyi canlı görmek için tıkla](https://reacttodo-alpha.vercel.app/)
 
 ## 🚀 Özellikler
 
 - Todo ekleme
-- Tamamlama işaretleme
-- Dark Mode desteği
-- Filtreleme (All / Active / Completed)
-- LocalStorage ile veri saklama
+- Todo silme
+- Todo tamamlama
+- Filtreleme
+- Dark mode
+- Verileri localStorage ile saklama
 
 ## 🛠️ Kullanılan Teknolojiler
 
 - React
 - TypeScript
 - CSS
+- Vite
 
-## 👤 Geliştirici
+👤 Geliştirici
 
 İsmail Kandemir
